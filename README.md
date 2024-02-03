@@ -1,1 +1,1 @@
-# ssd-lesson-9
+# SuperSimpleDev HTML & CSS Course Lesson 9 Exercises
