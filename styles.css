@@ -1,0 +1,221 @@
+div {
+    margin-bottom: 50px;
+}
+
+body {
+    font-family: Arial;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+.circle {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color:green;
+}
+
+.lesson-c {
+    border: 1px solid black;
+    width: 275px;
+    height: 80px;
+    padding: 12px;
+}
+
+.yes, 
+.no {
+    cursor: pointer;
+
+}
+.lesson-d {
+    background-color: rgb(48, 48, 48);
+    height: 85px;
+    width: 275px;
+}
+
+.install {
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    padding-left: 12px;
+    padding-top: 14px;
+    margin-bottom: 0px;
+}
+
+.add {
+    color: rgb(146, 146, 146);
+    font-size: 11px;
+    padding-left: 12px;
+}
+
+.lesson-e {
+    border: 1px solid rgb(232, 232, 232);
+    height: 50px;
+    width: 350px;
+    box-shadow: 2px 2px 10px rgb(221, 221, 221);
+    border-radius: 5px;
+    vertical-align: middle;
+    padding-top: 6px;
+    padding-left: 10px;
+}
+
+.cat-photo {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    vertical-align: middle;
+   
+}
+
+.twitter {
+    vertical-align: middle;
+    border: none;
+    margin-left: 5px;
+    font-size: 12px;
+}
+
+.tweet {
+    background-color: rgb(21, 158, 255);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    height: 28px;
+    width: 60px;
+    font-weight: 600;
+    margin-left: 60px;
+    cursor: pointer;
+
+}
+
+.lesson-f {
+    margin-left: 100px;
+    box-shadow: 2px 2px 10px rgb(221, 221, 221);
+    border: 1px solid rgb(212, 212, 212);
+    width: 149px;
+    border-radius: 1px;
+    height: 80px;
+}
+
+.cat-photo2 {
+    margin-left: 100px;
+    box-shadow: 2px 2px 10px rgb(221, 221, 221);
+    width: 150px;
+    border-radius: 1px;
+}
+
+.name {
+    font-weight: 700;
+    font-size: 13px;
+    padding-left: 5px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+
+.mutual-friends {
+    color: grey;
+    font-size: 11px;
+    padding-left: 5px;
+    margin: 0;
+}
+
+.add-friend {
+    background-color: rgb(31, 143, 255);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+    width: 85px;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+
+}
+
+.lesson-g {
+    display: inline-block;
+    margin-left: -85px;
+}
+.photo-g {
+    margin-left: 100px;
+    height: 150px;
+    object-fit: cover;
+    box-shadow: 2px 2px 10px rgb(221, 221, 221);
+    width: 150px;
+    border-radius: 1px;
+    display: inline-block;
+}
+
+.name-g {
+    font-weight: 700;
+    font-size: 13px;
+    padding-left: 5px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+.mutual-friends-g {
+    color: grey;
+    font-size: 11px;
+    padding-left: 5px;
+    margin: 0;
+}
+
+.add-friend-g {
+    background-color: rgb(31, 143, 255);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+    width: 85px;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+
+}
+
+.lesson-h {
+    width: 600px;
+}
+.google-logo {
+    width: 45%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.google-search {
+    margin-top: 10px;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 25px;
+    height: 35px;
+    width: 500px;
+    padding-left: 12px;
+    box-shadow: 2px 2px 5px rgb(209, 209, 209);
+    margin-left: 50px;
+}
+
+.search {
+    border: none;
+    background-color: rgb(243, 243, 243);
+    height: 35px;
+    width: 120px;
+    margin-left: 28%;
+    margin-top: 25px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.lucky {
+    border: none;
+    background-color: rgb(243, 243, 243);
+    height: 35px;
+    width: 120px;
+    cursor: pointer;
+
+}
